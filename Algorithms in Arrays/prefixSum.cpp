@@ -47,3 +47,8 @@ int main()
     return 0;
 }
 
+//time complexities-
+//worst case- O(N^2), avg cases - O(2N)
+
+//space complexities - O(1)
+ 
